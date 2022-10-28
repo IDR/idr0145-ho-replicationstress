@@ -1,0 +1,7 @@
+---
+target: "Screen:name:idr0145-ho-replicationstress/screenB"
+include: "../bulk.yml"
+path: "idr0145-screenB-plates.tsv"
+columns:
+  - path
+
