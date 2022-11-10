@@ -1,4 +1,4 @@
-﻿Plate,Well,Characteristics [Organism],Term Source 1 REF,Term Source 1 Accession,Characteristics [Strain],Experimental Condition [Genotype],Comment [Gene Identifier],Comment [Gene Symbol],Channels
+Plate,Well,Characteristics [Organism],Term Source 1 REF,Term Source 1 Accession,Characteristics [Strain],Experimental Condition [Genotype],Comment [Gene Identifier],Comment [Gene Symbol],Channels
 rad53-MMS-000384 PerkinElmer CellCarrier NEW,A1,Saccharomyces cerevisiae,NCBITaxon,4932,Untreated,MATa rad53Δ::natMX6 sml1Δ::hygMX6 his3Δ1 leu2Δ0 met15Δ0 ura3Δ0 can1pr-RPL30pr-tdTomato::CaURA3::can1Δ::STE2pr-LEU2 lyp1Δ0,YMR176W,ECM5,GFP:protein; RFP:cytoplasm
 rad53-MMS-000384 PerkinElmer CellCarrier NEW,A10,Saccharomyces cerevisiae,NCBITaxon,4932,Untreated,MATa rad53Δ::natMX6 sml1Δ::hygMX6 his3Δ1 leu2Δ0 met15Δ0 ura3Δ0 can1pr-RPL30pr-tdTomato::CaURA3::can1Δ::STE2pr-LEU2 lyp1Δ0,YLR183C,TOS4,GFP:protein; RFP:cytoplasm
 rad53-MMS-000384 PerkinElmer CellCarrier NEW,A11,Saccharomyces cerevisiae,NCBITaxon,4932,Untreated,MATa rad53Δ::natMX6 sml1Δ::hygMX6 his3Δ1 leu2Δ0 met15Δ0 ura3Δ0 can1pr-RPL30pr-tdTomato::CaURA3::can1Δ::STE2pr-LEU2 lyp1Δ0,YGR234W,YHB1,GFP:protein; RFP:cytoplasm
@@ -2259,18 +2259,18 @@ rad53-MMS-090384 PerkinElmer CellCarrier NEW,C21,,,,,,,Blank,GFP:protein; RFP:cy
 rad53-MMS-120384 PerkinElmer CellCarrier NEW,C21,,,,,,,Blank,GFP:protein; RFP:cytoplasm
 rad53-MMS-180384 PerkinElmer CellCarrier NEW,C21,,,,,,,Blank,GFP:protein; RFP:cytoplasm
 rad53-MMS-240384 PerkinElmer CellCarrier NEW,C21,,,,,,,Blank,GFP:protein; RFP:cytoplasm
-rad53-MMS-240384 PerkinElmer CellCarrier NEW,C21,,,,,,,Blank,GFP:protein; RFP:cytoplasm
+rad53-MMS-000384 PerkinElmer CellCarrier NEW,C21,,,,,,,Blank,GFP:protein; RFP:cytoplasm
 rad53-MMS-030384 PerkinElmer CellCarrier NEW,D21,,,,,,,Blank,GFP:protein; RFP:cytoplasm
 rad53-MMS-060384 PerkinElmer CellCarrier NEW,D21,,,,,,,Blank,GFP:protein; RFP:cytoplasm
 rad53-MMS-090384 PerkinElmer CellCarrier NEW,D21,,,,,,,Blank,GFP:protein; RFP:cytoplasm
 rad53-MMS-120384 PerkinElmer CellCarrier NEW,D21,,,,,,,Blank,GFP:protein; RFP:cytoplasm
 rad53-MMS-180384 PerkinElmer CellCarrier NEW,D21,,,,,,,Blank,GFP:protein; RFP:cytoplasm
 rad53-MMS-240384 PerkinElmer CellCarrier NEW,D21,,,,,,,Blank,GFP:protein; RFP:cytoplasm
-rad53-MMS-240384 PerkinElmer CellCarrier NEW,D21,,,,,,,Blank,GFP:protein; RFP:cytoplasm
+rad53-MMS-000384 PerkinElmer CellCarrier NEW,D21,,,,,,,Blank,GFP:protein; RFP:cytoplasm
 rad53-MMS-030384 PerkinElmer CellCarrier NEW,E21,,,,,,,Blank,GFP:protein; RFP:cytoplasm
 rad53-MMS-060384 PerkinElmer CellCarrier NEW,E21,,,,,,,Blank,GFP:protein; RFP:cytoplasm
 rad53-MMS-090384 PerkinElmer CellCarrier NEW,E21,,,,,,,Blank,GFP:protein; RFP:cytoplasm
 rad53-MMS-120384 PerkinElmer CellCarrier NEW,E21,,,,,,,Blank,GFP:protein; RFP:cytoplasm
 rad53-MMS-180384 PerkinElmer CellCarrier NEW,E21,,,,,,,Blank,GFP:protein; RFP:cytoplasm
 rad53-MMS-240384 PerkinElmer CellCarrier NEW,E21,,,,,,,Blank,GFP:protein; RFP:cytoplasm
-rad53-MMS-240384 PerkinElmer CellCarrier NEW,E21,,,,,,,Blank,GFP:protein; RFP:cytoplasm
+rad53-MMS-000384 PerkinElmer CellCarrier NEW,E21,,,,,,,Blank,GFP:protein; RFP:cytoplasm
