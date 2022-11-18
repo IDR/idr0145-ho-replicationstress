@@ -21,7 +21,7 @@ defaults:
 
 columns:
 
-  - name: Experimental Condition [MMS treatment]
+  - name: Experimental Condition [MMS Treatment]
     clientname: MMS treatment
     include: true
 
@@ -31,10 +31,6 @@ columns:
 
   - name: Channels
     clientname: Channels
-    include: true
-
-  - name: Comment [Image]
-    clientname: Image Comment
     include: true
 
 
