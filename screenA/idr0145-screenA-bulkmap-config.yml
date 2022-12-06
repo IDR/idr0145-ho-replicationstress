@@ -21,7 +21,7 @@ defaults:
 
 columns:
 
-  - name: Experimental Condition [MMS treatment]
+  - name: Experimental Condition [MMS Treatment]
     clientname: MMS treatment
     include: true
 
