@@ -40,8 +40,9 @@ Study Copyright	Ho et al
 Study Data Publisher	University of Dundee				
 Study Data DOI	https://doi.org/10.17867/10000186				
 					
-Term Source Name	NCBITaxon	EFO	CMPO	Fbbi	
-Term Source	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/	
+Term Source Name	NCBITaxon	EFO	CMPO	Fbbi	
+
+Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/
 					
 					
 # SCREEN SECTION					
