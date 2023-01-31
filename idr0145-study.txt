@@ -38,7 +38,7 @@ Study License	CC BY 4.0
 Study License URL	https://creativecommons.org/licenses/by/4.0/			
 Study Copyright	Ho et al				
 Study Data Publisher	University of Dundee				
-Study Data DOI				
+Study Data DOI	https://doi.org/10.17867/10000186				
 					
 Term Source Name	NCBITaxon	EFO	CMPO	Fbbi	
 Term Source File	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/	
@@ -50,6 +50,8 @@ Term Source File	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http:
 					
 Screen Number	1				
 Comment[IDR Screen Name]	idr0145-ho-replicationstress/screenA	
+
+Screen Data DOI	https://doi.org/10.17867/10000186a
 
 Screen Sample Type	cell			
 Screen Description	High-throughput confocal microscope screen of protein localization screen for 314 yeast strains expressing unique GFP-tagged proteins treated with 0.03% MMS, imaged at 7 time points over 4 hours (0, 30, 60, 90, 120, 180, and 240 minutes), in a Mec1 Sml1 deletion background.  			
@@ -120,6 +122,8 @@ Processed Data Column Link To Library File
 					
 Screen Number	2				
 Comment[IDR Screen Name]	idr0145-ho-replicationstress/screenB
+
+Screen Data DOI	https://doi.org/10.17867/10000186b
 
 Screen Sample Type	cell				
 Screen Description	High-throughput confocal microscope screen of protein localization screen for 314 yeast strains expressing unique GFP-tagged proteins treated with 0.03% MMS, imaged at 7 time points over 4 hours (0, 30, 60, 90, 120, 180, and 240 minutes), in a Rad53 Sml1 deletion background.  			
