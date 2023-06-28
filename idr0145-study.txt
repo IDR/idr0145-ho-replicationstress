@@ -19,11 +19,11 @@ Study BioImage Archive Accession
 Study Public Release Date	2023-01-17					
 					
 # Study Publication					
-Study PubMed ID					
+Study PubMed ID	37278514				
 Study Publication Title	Mec1-Independent Activation of the Rad53 Checkpoint Kinase Revealed by Quantitative Analysis of Protein Localization Dynamics				
-Study Author List	Ho B, Sanford EJ, Torres NP, Smolka MB, Brown GW			
-Study PMC ID					
-Study DOI					
+Study Author List	Ho B, Sanford EJ, Loll-Krippleber R, Torres NP, Smolka MB, Brown GW			
+Study PMC ID	PMC10259420				
+Study DOI	https://doi.org/10.7554/eLife.82483				
 					
 # Study Contacts					
 Study Person Last Name	Brown				
